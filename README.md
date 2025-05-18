@@ -1,5 +1,5 @@
 # Organize music with metadata
-A script to rename and organize music files using their metadata. Useful for music libraries pulled from old devices. 
+A script to rename and organize music files using metadata. Useful for music libraries pulled from old devices. 
 
 ### File structure:
 ```
