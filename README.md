@@ -3,7 +3,7 @@ A script to rename and organize music files using their metadata. Useful for mus
 
 ### File structure:
 `Album name`   
-    `Artist name - track name`
+`    Artist name - track name`
 
 ### Useage: 
 Place script in music folder   
