@@ -2,8 +2,11 @@
 A script to rename and organize music files using their metadata. Useful for music libraries pulled from old devices. 
 
 ### File structure:
-`Album name   
-    Artist name - track name`
+```
+Base directory
+├── Album name                                                                    
+   ├── Artist name - Track name.mp3
+```
 
 ### Useage: 
 Place script in music folder   
